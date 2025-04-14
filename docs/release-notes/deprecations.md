@@ -7,6 +7,10 @@ Over time, certain Elastic functionality becomes outdated and is replaced or rem
 
 Review the deprecated functionality for Elasticsearch PHP Client. While deprecations have no immediate impact, we strongly encourage you update your implementation after you upgrade. To learn how to upgrade, check out [Upgrade](docs-content://deploy-manage/upgrade.md).
 
+## 9.0.0 [elasticsearch-php-client-900-deprecations]
+
+_No deprecations_
+
 % ## Next version [elasticsearch-php-client-versionnext-deprecations]
 
 % ::::{dropdown} Deprecation title
@@ -15,8 +19,6 @@ Review the deprecated functionality for Elasticsearch PHP Client. While deprecat
 % **Impact**<br> Impact of deprecation. 
 % **Action**<br> Steps for mitigating deprecation impact.
 % ::::
-
-% ## 9.0.0 [elasticsearch-php-client-900-deprecations]
 
 % Description of the deprecation and steps to update implementation.
 % For more information, check [PR #](PR link).
